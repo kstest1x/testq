@@ -1,5 +1,3 @@
 # testq
 
 readme test
-
-
